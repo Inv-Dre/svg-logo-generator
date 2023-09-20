@@ -14,8 +14,8 @@ https://github.com/Inv-Dre/svg-logo-generator.git
 
 ## Usage
 
-```md
-![Video](https://drive.google.com/file/d/1hxhQlZrVqxx4sVLPIqHlTZQjOInsdsYl/view)
-```
+
+https://drive.google.com/file/d/1hxhQlZrVqxx4sVLPIqHlTZQjOInsdsYl/view
+
 
 ## Tests
