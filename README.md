@@ -5,10 +5,17 @@ I created the svg logo generator so people trying to launch a start up or brand 
 
 ## Installation
 
+1. git clone this in your terminal
+- https://github.com/Inv-Dre/svg-logo-generator.git
 
+2. Open up the folder
+
+3. Type npm i into your terminal and hit enter
 
 ## Usage
 
-
+```md
+![Video](examples/Assets/Videos/tutorial.MOV)
+```
 
 ## Tests
