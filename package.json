@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "jest",
-    "start": "node lib/index.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "inquirer": "^8.2.4",
