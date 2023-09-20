@@ -6,7 +6,7 @@ I created the svg logo generator so people trying to launch a start up or brand 
 ## Installation
 
 1. git clone this in your terminal
-- https://github.com/Inv-Dre/svg-logo-generator.git
+https://github.com/Inv-Dre/svg-logo-generator.git
 
 2. Open up the folder
 
@@ -15,7 +15,7 @@ I created the svg logo generator so people trying to launch a start up or brand 
 ## Usage
 
 ```md
-![Video](examples/Assets/Videos/tutorial.MOV)
+![Video](https://drive.google.com/file/d/1hxhQlZrVqxx4sVLPIqHlTZQjOInsdsYl/view)
 ```
 
 ## Tests
